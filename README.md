@@ -1,4 +1,4 @@
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ishaan-cherukuri/Ambulance-Pathfinder/main?urlpath=voila/render/ambulance_app.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ishaan-cherukuri/ambulance-pathfinder/main?urlpath=voila/render/ambulance_app.ipynb)
 
 # Ambulance-Pathfinder
 An app for ambulance personnel to effectively find a route to the areas in need. 
